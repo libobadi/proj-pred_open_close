@@ -1,0 +1,5 @@
+*.parquet
+*.parquet.state
+venv/
+__pycache__/
+*.pyc
